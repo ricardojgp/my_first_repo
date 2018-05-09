@@ -1,4 +1,4 @@
 Welcome to My First Repo!
 Learning Git is going well so far.
 I added this line in the update-readme banch.
-It's a sunny day outside.
+It's a cloudy day outside.
